@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0837-most-common-word) |
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2881-split-strings-by-separator](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2881-split-strings-by-separator) |
 ## Greedy
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0837-most-common-word](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0837-most-common-word) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2881-split-strings-by-separator](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2881-split-strings-by-separator) |
 ## Two Pointers
 |  |
 | ------- |
