@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0837-most-common-word) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2881-split-strings-by-separator](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2881-split-strings-by-separator) |
 ## Two Pointers
 |  |
@@ -77,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2298-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
