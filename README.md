@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1127-last-stone-weight) |
+| [1168-duplicate-zeros](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2881-split-strings-by-separator](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2881-split-strings-by-separator) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
+| [1168-duplicate-zeros](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1168-duplicate-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
