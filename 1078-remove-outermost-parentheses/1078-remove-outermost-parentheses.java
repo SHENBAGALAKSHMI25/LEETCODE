@@ -5,7 +5,6 @@ class Solution {
      for(char y:s.toCharArray()){
         if(y=='('){
             count++;
-        
         if(count>1) ans.append(y);
         }
         else if(y==')'){
