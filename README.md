@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0979-di-string-match) |
+| [1078-remove-outermost-parentheses](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1454-remove-palindromic-subsequences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1454-remove-palindromic-subsequences) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
