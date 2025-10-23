@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2881-split-strings-by-separator](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2881-split-strings-by-separator) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -110,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
