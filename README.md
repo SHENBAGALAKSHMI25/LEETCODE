@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1472-increasing-decreasing-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1472-increasing-decreasing-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1472-increasing-decreasing-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1472-increasing-decreasing-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1454-remove-palindromic-subsequences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1454-remove-palindromic-subsequences) |
+| [1472-increasing-decreasing-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1472-increasing-decreasing-string) |
 | [1524-string-matching-in-an-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
