@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0414-third-maximum-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0561-array-partition) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0979-di-string-match) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1078-remove-outermost-parentheses](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 ## Combinatorics
 |  |
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
