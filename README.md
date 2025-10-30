@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2881-split-strings-by-separator](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2881-split-strings-by-separator) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1454-remove-palindromic-subsequences) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
