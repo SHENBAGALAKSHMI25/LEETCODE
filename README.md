@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0837-most-common-word) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1217-relative-sort-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1217-relative-sort-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
