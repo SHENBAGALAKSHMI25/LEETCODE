@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0645-set-mismatch) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0495-teemo-attacking) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2298-count-integers-with-even-digit-sum) |
