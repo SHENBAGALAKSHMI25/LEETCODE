@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1217-relative-sort-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1524-string-matching-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1542-consecutive-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
