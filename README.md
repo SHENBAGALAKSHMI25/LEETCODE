@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1768-merge-strings-alternately](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1454-remove-palindromic-subsequences) |
+| [1768-merge-strings-alternately](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
