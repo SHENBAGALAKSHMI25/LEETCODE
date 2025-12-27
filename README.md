@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0561-array-partition) |
 | [0837-most-common-word](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0824-number-of-lines-to-write-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1127-last-stone-weight) |
 ## Math
 |  |
@@ -222,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
