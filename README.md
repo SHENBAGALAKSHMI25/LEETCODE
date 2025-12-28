@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2881-split-strings-by-separator](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2881-split-strings-by-separator) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0979-di-string-match](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0979-di-string-match) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1217-relative-sort-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1217-relative-sort-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting Sort
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
@@ -228,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bucket Sort
 |  |
 | ------- |
