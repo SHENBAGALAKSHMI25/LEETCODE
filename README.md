@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0896-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0979-di-string-match) |
+| [0989-add-to-array-form-of-integer](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1168-duplicate-zeros) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0066-plus-one) |
+| [0989-add-to-array-form-of-integer](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2298-count-integers-with-even-digit-sum) |
