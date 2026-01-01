@@ -1,40 +1,18 @@
 class Solution {
     public List<Integer> addToArrayForm(int[] num, int k) {
+        ArrayList<Integer> res = new ArrayList<>();
+        int i = num.length - 1;
 
-        ArrayList<Integer> arr = new ArrayList<>();
-
-        // reverse num array
-        int left = 0, right = num.length - 1;
-        while (left < right) {
-            int temp = num[left];
-            num[left] = num[right];
-            num[right] = temp;
-            left++;
-            right--;
-        }
-
-        int i = 0;
-
-        // process while k > 0 OR digits of num remain
-        while (k > 0 || i < num.length) {
-            int digit = k % 10;
-
-            if (i < num.length) {
-                arr.add(num[i] + digit);
-            } else {
-                arr.add(digit);
+        while (i >= 0 || k > 0) {
+            if (i >= 0) {
+                k += num[i];  // add current num digit to k
+                i--;
             }
-
-            int carry = arr.get(i) / 10;
-            arr.set(i, arr.get(i) % 10);   // ✅ FIXED
-
-            k = k / 10;
-            k += carry;
-
-            i++;
+            res.add(k % 10);  // add last digit
+            k /= 10;          // remaining carry
         }
 
-        Collections.reverse(arr);
-        return arr;
+        Collections.reverse(res);
+        return res;
     }
 }
