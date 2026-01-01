@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0066-plus-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2298-count-integers-with-even-digit-sum) |
