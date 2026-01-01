@@ -7,8 +7,6 @@ class Solution {
             }
             digit[i] = 0;
         }
-
-        // Only runs if all digits were 9
         int[] res = new int[digit.length + 1];
         res[0] = 1;
         return res;
