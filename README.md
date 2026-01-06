@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-number-of-lines-to-write-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0837-most-common-word) |
