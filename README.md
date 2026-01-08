@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0979-di-string-match](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0979-di-string-match) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1975-maximum-matrix-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1217-relative-sort-array) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1472-increasing-decreasing-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1472-increasing-decreasing-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1454-remove-palindromic-subsequences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1454-remove-palindromic-subsequences) |
 | [1472-increasing-decreasing-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1472-increasing-decreasing-string) |
