@@ -1,0 +1,20 @@
+class Solution {
+    public int[] smallerNumbersThanCurrent(int[] nums) {
+        ArrayList<Integer>arr=new ArrayList<>();
+        for(int i=0;i<nums.length;i++){
+            int count=0;
+            for(int j=0;j<nums.length;j++){
+                if(nums[j]<nums[i] && j!=i){
+                    count++;
+                }
+            }
+            arr.add(count);
+            
+        }
+        int ar[]=new int[nums.length];
+          for(int i=0;i<arr.size();i++){
+                ar[i]=arr.get(i);
+          }
+          return ar;
+    }
+}
