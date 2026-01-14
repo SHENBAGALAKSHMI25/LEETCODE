@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1217-relative-sort-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1524-string-matching-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1217-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1217-relative-sort-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1472-increasing-decreasing-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1472-increasing-decreasing-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1472-increasing-decreasing-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1472-increasing-decreasing-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
