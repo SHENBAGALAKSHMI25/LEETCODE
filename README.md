@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
