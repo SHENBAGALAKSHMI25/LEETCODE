@@ -1,19 +1,16 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-    //brute force
-    //frst for loop to acccess each element
-    // second use to add with the frst elemt chosen from the frst loop
-    // the both index shouldn't same
-    //using the if condition add both element frst+secd then compare it with the target if it equals pass it to the array 
-    //at final return the array
+    //better 
+    HashMap<Integer,Integer>map=new HashMap<>();
     int arr[]=new int[2];
     for(int i=0;i<nums.length;i++){
-        for(int j=0;j<nums.length;j++){
-            if(i==j)continue;//it starts to continue next condition 
-            if(nums[i]+nums[j]==target){
-                arr[0]=i;
-                arr[1]=j;
-            }
+        int a=target-nums[i];//9-2=7 //9-7
+        if(!map.containsKey(a)){//2
+           map.put(nums[i],i);//2,0
+        }
+        else{
+            arr[0]=map.get(a);
+            arr[1]=i;
         }
     }
     return arr;
