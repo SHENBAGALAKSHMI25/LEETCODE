@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0414-third-maximum-number) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
