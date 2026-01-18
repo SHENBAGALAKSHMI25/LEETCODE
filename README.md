@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0189-rotate-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
