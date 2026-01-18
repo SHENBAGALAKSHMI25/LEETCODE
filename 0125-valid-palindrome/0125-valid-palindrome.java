@@ -2,20 +2,29 @@ import java.util.*;
 
 class Solution {
     public boolean isPalindrome(String s) {
-        ArrayList<Character> chr = new ArrayList<>();
-        for (char h : s.toCharArray()) {
-            if (Character.isLetterOrDigit(h)) {
-                chr.add(Character.toLowerCase(h));
-            }
+        int start=0;
+        int end=s.length()-1;
+        while(start<end){
+        if(Character.isLetter(s.charAt(start)) && Character.isLetter(s.charAt(end))){
+            if(Character.toLowerCase(s.charAt(start)) != Character.toLowerCase(s.charAt(end)))return false;
+            start++;
+            end--;
         }
-        int i = 0;
-        int j = chr.size() - 1;
-        while (i < j) {
-            if (!chr.get(i).equals(chr.get(j))) {
-                return false;
-            }
-            i++;
-            j--;
+        else if(Character.isDigit(s.charAt(start)) && Character.isDigit(s.charAt(end))){
+            if(s.charAt(start)!=s.charAt(end))return false;
+            start++;
+            end--;
+        }
+        else if(!Character.isLetter(s.charAt(start)) && !Character.isDigit(s.charAt(start))){
+            start++;
+        }
+        else if(!Character.isLetter(s.charAt(end)) && !Character.isDigit(s.charAt(end))){
+            end--;
+        
+        }
+        else{
+            return false;
+        }
         }
         return true;
     }
