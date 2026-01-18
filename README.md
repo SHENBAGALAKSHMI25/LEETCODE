@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0414-third-maximum-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0189-rotate-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0953-reverse-only-letters) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0189-rotate-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
