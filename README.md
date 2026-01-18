@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
