@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1454-remove-palindromic-subsequences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1454-remove-palindromic-subsequences) |
 | [1472-increasing-decreasing-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1472-increasing-decreasing-string) |
 | [1524-string-matching-in-an-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1524-string-matching-in-an-array) |
