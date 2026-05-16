@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0896-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0979-di-string-match](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0979-di-string-match) |
 | [0989-add-to-array-form-of-integer](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1051-height-checker) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0953-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0979-di-string-match](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1454-remove-palindromic-subsequences) |
