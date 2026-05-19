@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0696-count-binary-substrings) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/0495-teemo-attacking) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SHENBAGALAKSHMI25/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
